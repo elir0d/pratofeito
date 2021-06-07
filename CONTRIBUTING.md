@@ -23,8 +23,8 @@ Pull requests are the best way to propose changes to the codebase (we use [Githu
 ## Any contributions you make will be under the GNU General Public License v3.0
 In short, when you submit code changes, your submissions are understood to be under the same [GNU General Public License v3.0](https://github.com/vanpyre/classic-pong/blob/main/LICENSE.MD) that covers the project. Feel free to contact the maintainers if that's a concern.
 
-## Report bugs using Github's [issues](https://github.com/<user>/repository/issues)
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/<user>/<pratofeito>/issues/new?assignees=&labels=&template=bug_report.md&title=); it's that easy!
+## Report bugs using Github's [issues](https://github.com/<USER>/<REPOSITORY>/issues)
+We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/<USER>/<REPOSITORY>/issues/new?assignees=&labels=&template=bug_report.md&title=); it's that easy!
 <
 ## Write bug reports with detail, background, and sample code
 [This is an example](https://github.com/vanpyre/pratofeito/blob/standard/.github/ISSUE_TEMPLATE/bug_report_github.md) of a bug report, and I think it's not a bad model. 
