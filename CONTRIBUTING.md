@@ -44,7 +44,7 @@ People *love* thorough bug reports. I'm not even kidding.
 ## Use a Consistent Coding Style
 I'm again borrowing these from [Google's guideline](https://google.github.io/styleguide/)
 
-* 2 spaces for indentation rather than tabs
+* 3 spaces for indentation rather than tabs
 * You can try running `npm run lint` for style unification
 
 ## License
