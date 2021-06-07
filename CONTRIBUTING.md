@@ -25,7 +25,7 @@ In short, when you submit code changes, your submissions are understood to be un
 
 ## Report bugs using Github's [issues](https://github.com/<USER>/<REPOSITORY>/issues)
 We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/<USER>/<REPOSITORY>/issues/new?assignees=&labels=&template=bug_report.md&title=); it's that easy!
-<
+
 ## Write bug reports with detail, background, and sample code
 [This is an example](https://github.com/vanpyre/pratofeito/blob/standard/.github/ISSUE_TEMPLATE/bug_report_github.md) of a bug report, and I think it's not a bad model. 
 
@@ -42,7 +42,7 @@ We use GitHub issues to track public bugs. Report a bug by [opening a new issue]
 People *love* thorough bug reports. I'm not even kidding.
 
 ## Use a Consistent Coding Style
-I'm again borrowing these from [Google's guideline](https://google.github.io/styleguide/){:target="_blank"}
+I'm again borrowing these from [Google's guideline](https://google.github.io/styleguide/)
 
 * 3 spaces for indentation rather than tabs
 * You can try running `npm run lint` for style unification
