@@ -48,7 +48,7 @@ I'm again borrowing these from [Google's guideline](https://google.github.io/sty
 * You can try running `npm run lint` for style unification
 
 ## License
-By contributing, you agree that your contributions will be licensed under its MIT License.
+By contributing, you agree that your contributions will be licensed under its [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.pt-br.html).
 
 ## References
 This document was adapted from the open-source contribution guidelines for [Facebook's Draft](https://github.com/facebook/draft-js/blob/master/CONTRIBUTING.md)
