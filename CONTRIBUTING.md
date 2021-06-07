@@ -23,18 +23,18 @@ Pull requests are the best way to propose changes to the codebase (we use [Githu
 ## Any contributions you make will be under the GNU General Public License v3.0
 In short, when you submit code changes, your submissions are understood to be under the same [GNU General Public License v3.0](https://github.com/vanpyre/classic-pong/blob/main/LICENSE.MD) that covers the project. Feel free to contact the maintainers if that's a concern.
 
-## Report bugs using Github's [issues](https://github.com/briandk/transcriptase-atom/issues)
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](); it's that easy!
+## Report bugs using Github's [issues](https://github.com/<USER>/<REPOSITORY>/issues)
+We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/<USER>/<REPOSITORY>/issues/new?assignees=&labels=&template=bug_report.md&title=); it's that easy!
 
 ## Write bug reports with detail, background, and sample code
-[This is an example](http://stackoverflow.com/q/12488905/180626) of a bug report I wrote, and I think it's not a bad model. Here's [another example from Craig Hockenberry](http://www.openradar.me/11905408), an app developer whom I greatly respect.
+[This is an example](https://github.com/vanpyre/pratofeito/blob/standard/.github/ISSUE_TEMPLATE/bug_report_github.md) of a bug report, and I think it's not a bad model. 
 
 **Great Bug Reports** tend to have:
 
 - A quick summary and/or background
 - Steps to reproduce
   - Be specific!
-  - Give sample code if you can. [My stackoverflow question](http://stackoverflow.com/q/12488905/180626) includes sample code that *anyone* with a base R setup can run to reproduce what I was seeing
+  - Give sample code if you can. 
 - What you expected would happen
 - What actually happens
 - Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
@@ -42,13 +42,13 @@ We use GitHub issues to track public bugs. Report a bug by [opening a new issue]
 People *love* thorough bug reports. I'm not even kidding.
 
 ## Use a Consistent Coding Style
-I'm again borrowing these from [Facebook's Guidelines](https://github.com/facebook/draft-js/blob/a9316a723f9e918afde44dea68b5f9f39b7d9b00/CONTRIBUTING.md)
+I'm again borrowing these from [Google's guideline](https://google.github.io/styleguide/)
 
-* 2 spaces for indentation rather than tabs
+* 3 spaces for indentation rather than tabs
 * You can try running `npm run lint` for style unification
 
 ## License
-By contributing, you agree that your contributions will be licensed under its MIT License.
+By contributing, you agree that your contributions will be licensed under its [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.pt-br.html).
 
 ## References
-This document was adapted from the open-source contribution guidelines for [Facebook's Draft](https://github.com/facebook/draft-js/blob/a9316a723f9e918afde44dea68b5f9f39b7d9b00/CONTRIBUTING.md)
+This document was adapted from the open-source contribution guidelines for [Facebook's Draft](https://github.com/facebook/draft-js/blob/master/CONTRIBUTING.md)
