@@ -1,4 +1,4 @@
-# Contributing to Classic Pong
+# Contributing to <NOME OF OUR PROJECT>
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 
 - Reporting a bug
